@@ -33,7 +33,7 @@ input[type=text], select {
     background-color: #add4ff;
     font-family: 'Oswald', sans-serif;
 }
-input[type=email], select {
+input, select {
     width: 100%;
     padding: 12px 20px;
     margin: 8px 0;
